@@ -12,7 +12,7 @@
   --counter-color:var(--color-primary);
   --marker-color:var(--color-primary);
   --marked-background:var(--green-300);
-  --max-width:82ch;
+  --max-width:100ch;
   --blockquote-padding:.5rem 1.5rem .5rem 2rem;
 }
 
